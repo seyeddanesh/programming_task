@@ -33,4 +33,4 @@ Modify the add_circle function in the code, and to run, from the terminal:
 ```
 python draw_circle.py
 ```
-If you run as is, the function currently returns in input image unmodified.
+If you run as is, the function currently returns the input image unmodified.
