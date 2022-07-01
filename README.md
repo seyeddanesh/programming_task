@@ -1,3 +1,6 @@
+# Simple Programming Task
+This is a repository for simple coding task, exploring the participants ability to program in Python, and manipulate image data.
+
 # Introduction 
 The purpose of this exercise is to check that you can perform tasks using Python and numpy. The exercise has a core part and optional extras.
 Completing the core part only is absolutely fine. If, however, if you are enjoying the task and have spare time (we know that people are busy and not
@@ -26,7 +29,7 @@ If you would like to, you can make the function more complicated. This will show
 Make a new function for these, so we can still look at your original.
 - Fill the circle with blue, instead of black.
 - Fill the circle with a gradient, black in the middle and blue at the edge, varying linearly.
-- Draw muiltiple circles that don't touch. The number of circles is randomly chosen between 1 and 10. Each circle is drawn to the same specifications as defined above (random radius and location).
+- Draw multiple circles that don't touch. The number of circles is randomly chosen between 1 and 10. Each circle is drawn to the same specifications as defined above (random radius and location).
 
 # Implement and Run
 Modify the add_circle function in the code, and to run, from the terminal:
