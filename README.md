@@ -10,7 +10,7 @@ so you will not need to do this yourself.
 # Setup 
 Install the dependencies listed in requirements.txt (imageio, matplotlib, and numpy).
 You can do this in a bash terminal by running:
-   pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 # Core Task 
 The task is to write a function that takes an image as input and draws a circle somewhere on it.
