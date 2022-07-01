@@ -13,7 +13,7 @@ pip install -r requirements.txt
 # Core Task 
 The task is to write a function that takes an image as input and draws a circle somewhere on it. There are image processing libraries that have functions to do this (like opencv or Pillow) but we would like to see if you can do it yourself using numpy and the Python standard library.
 - The input image is a numpy array of uint8 with shape (height, width, 3).
-- The image is bit order is RGB.
+- The image byte order is RGB.
 - Your function should pick a random diameter for the circle which will be at minimum 10 pixels and at most the height of the image.
 - The random diameter must be selected from a uniform (flat) distribution.
 - Your function should pick a random location in the image which will be the center point of the circle.
