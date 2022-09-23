@@ -55,6 +55,7 @@ Make a new function similar to the add_circle that:
 # Implement and Run
 
 Modify the add_circle and add_triangle function in the code, and to run, from the terminal:
-
+```
 python modify_image.py
+```
 If you run as is, the function currently returns the input image unmodified.
