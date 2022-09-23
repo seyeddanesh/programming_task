@@ -4,12 +4,6 @@ The exercise has two initial core tasks, and one additional optional task. We ha
 provided functions to read an image from disk and display it on the screen,
 so you will not need to do this yourself.
 
-# Setup 
-Install the dependencies listed in requirements.txt (imageio, matplotlib, and numpy).
-You can do this in a bash terminal by running:
-```
-pip install -r requirements.txt
-```
 
 # Core Task 
 ## Part 1 - Draw Circle
@@ -51,6 +45,14 @@ Make a new function similar to the add_circle that:
 - Draw multiple circles that don't touch.
 - The number of circles is randomly chosen between 1 and 10.
 - Each circle is drawn to the same specifications as defined above (random radius and location).
+
+
+# Setup 
+Install the dependencies listed in requirements.txt (imageio, matplotlib, and numpy).
+You can do this in a bash terminal by running:
+```
+pip install -r requirements.txt
+```
 
 # Implement and Run
 
