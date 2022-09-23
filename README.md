@@ -26,11 +26,11 @@ of a circle.
 - The input image is the same, a numpy array of uint8 with shape (height, width, 3).
 - The image is RGB.
 - The triangle that will be drawn should have 3 equal sides (A equilateral triangle)
-- The trangle should have a random size, and random rotation
+- The trangle should have a random size, and random orientation.
 - The function should pick a random side length for the triangle which will be at least a size equal
 to 10 pixels in length and at most a size equal to the height of the image.
 - The random side length must be drawn from a uniform (flat) distribution.
-- The orientation of the triangle should be chosen at random from a uniform distribution
+- The orientation of the triangle should be chosen at random from a uniform distribution (A random rotation from 0-360 degrees). 
 - The function should pick a random location in the image which will be the center point of the
   triangle.
 - The triangle must fit entirely within the image.
