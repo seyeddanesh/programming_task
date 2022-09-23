@@ -1,7 +1,7 @@
 # Introduction 
 The purpose of this exercise is assess you comfort in using python to manipulate images.
-The exercise has two initial core tasks, and one additional optional task
-We have provided functions to read an image from disk and display it on the screen,
+The exercise has two initial core tasks, and one additional optional task. We have 
+provided functions to read an image from disk and display it on the screen,
 so you will not need to do this yourself.
 
 # Setup 
